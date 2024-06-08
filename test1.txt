@@ -1,10 +1,1 @@
- Volume in drive C has no label.
- Volume Serial Number is 5088-B1CB
-
- Directory of C:\Users\Oni\Downloads\My project
-
-06/09/2024  01:55 AM    <DIR>          .
-06/09/2024  01:55 AM    <DIR>          ..
-06/09/2024  01:55 AM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  416,651,960,320 bytes free
+ Change 1
